@@ -1,0 +1,19 @@
+[project]
+name = "open-rag-api-demo"
+version = "0.1.0"
+description = "This project is a FastAPI-based Chabot AI application that provides an API for uploading PDF files, extracting text, generating embeddings, and answering questions based on the uploaded documents using open source LLM model."
+readme = "README.md"
+requires-python = ">=3.11.11"
+dependencies = [
+    "fastapi>=0.115.6",
+    "pdf2image>=1.17.0",
+    "pillow>=11.0.0",
+    "psycopg2>=2.9.10",
+    "psycopg2-binary>=2.9.10",
+    "pypdf2>=3.0.1",
+    "pytesseract>=0.3.13",
+    "python-multipart>=0.0.20",
+    "sentence-transformers>=3.3.1",
+    "transformers>=4.47.1",
+    "uvicorn>=0.34.0",
+]
