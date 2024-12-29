@@ -2,6 +2,16 @@
 
 This project is a FastAPI-based Chatbot AI application that provides an API for uploading PDF files, extracting text, generating embeddings, and answering questions based on the uploaded documents using open-source LLM models.
 
+You can find a comprehensive slide presentation for this project in the following link: [https://docs.google.com/presentation/d/1jmwY-pLP_y-Qibolwzeee7xuLOtJHgtq1Ib89h1QIOU/edit#slide=id.g328618cda3a_0_0](https://docs.google.com/presentation/d/1jmwY-pLP_y-Qibolwzeee7xuLOtJHgtq1Ib89h1QIOU/edit#slide=id.g328618cda3a_0_0).
+
+The slide presentation is a valuable resource for understanding the intricacies of the project. It is especially useful for:
+
+- **Developers**: Looking to contribute or integrate the API into their applications.
+- **Stakeholders**: Interested in the technical and functional aspects of the project.
+- **Educators and Students**: Who want to learn about building AI-powered applications using open-source tools.
+
+We encourage you to review the presentation to gain deeper insights into the project's capabilities, architecture, and potential applications.
+
 ## Table of Contents
 
 - [OpenRAG API Demo](#openrag-api-demo)
