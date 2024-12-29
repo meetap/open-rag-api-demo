@@ -2,7 +2,9 @@
 
 This project is a FastAPI-based Chatbot AI application that provides an API for uploading PDF files, extracting text, generating embeddings, and answering questions based on the uploaded documents using open-source LLM models.
 
-You can find a comprehensive slide presentation for this project in the following link: [https://docs.google.com/presentation/d/1jmwY-pLP_y-Qibolwzeee7xuLOtJHgtq1Ib89h1QIOU/edit?usp=sharing](https://docs.google.com/presentation/d/1jmwY-pLP_y-Qibolwzeee7xuLOtJHgtq1Ib89h1QIOU/edit?usp=sharing).
+You can find a comprehensive slide presentation for this project in the following link:
+
+<a href="https://docs.google.com/presentation/d/1jmwY-pLP_y-Qibolwzeee7xuLOtJHgtq1Ib89h1QIOU/edit?usp=sharing" target="_blank">https://docs.google.com/presentation/d/1jmwY-pLP_y-Qibolwzeee7xuLOtJHgtq1Ib89h1QIOU/edit?usp=sharing</a>
 
 The slide presentation is a valuable resource for understanding the intricacies of the project. It is especially useful for:
 
